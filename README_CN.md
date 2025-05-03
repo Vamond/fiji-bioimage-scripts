@@ -56,7 +56,7 @@
 ## 使用教程
 
 - 详细文字教程：[博客](https://www.vamond.cn)
-- 视频教程：[B站](https://space.bilibili.com/your_channel_id)
+- 视频教程：[B站](https://space.bilibili.com/228182962)
 
 ## 注意事项
 

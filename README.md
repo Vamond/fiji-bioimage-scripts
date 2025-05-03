@@ -56,7 +56,7 @@ This project contains a collection of FIJI macros for common image analysis task
 ## Tutorials
 
 - Detailed text tutorials: [Blog](https://www.vamond.cn)
-- Video tutorials: [Bilibili](https://space.bilibili.com/your_channel_id)
+- Video tutorials: [Bilibili](https://space.bilibili.com/228182962)
 
 ## Notes
 
