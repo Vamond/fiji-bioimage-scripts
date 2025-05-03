@@ -1,22 +1,22 @@
-# 测试图片说明
+# Test Images Guide
 
-本目录包含用于测试脚本的示例图片。
+This directory contains sample images for testing the scripts.
 
-## 图片说明
+## Image Specifications
 
-- 每个子目录对应不同类型的分析脚本
-- 图片格式：TIFF 或 PNG
-- 图片命名规则：`类别_用途_编号.扩展名`
+- Each subdirectory corresponds to different types of analysis scripts
+- Image formats: TIFF, PNG, or JPG
+- Naming convention: `category_purpose_number.extension`
 
-## 使用说明
+## Usage Instructions
 
-1. 下载测试图片
-2. 使用 FIJI 打开图片
-3. 运行相应的分析脚本
-4. 对比结果与预期输出
+1. Download the test images
+2. Open images with FIJI
+3. Run the corresponding analysis scripts
+4. Compare results with expected output
 
-## 注意事项
+## Notes
 
-- 测试图片仅用于演示和测试目的
-- 请勿将测试图片用于实际研究
-- 建议在使用前备份原始图片 
+- Test images are for demonstration and testing purposes only
+- Do not use test images for actual research
+- It is recommended to backup original images before use 
